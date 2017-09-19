@@ -1,0 +1,4 @@
+[submodule "shared-part-1"]
+	path = shared-part-1
+	url = https://github.com/vergenzt/git-self-submodule-test
+	branch = shared-part-1
